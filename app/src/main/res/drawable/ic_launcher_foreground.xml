@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Lock symbol styled with a book inside it, centered perfectly in 108x108 viewport -->
+    <path
+        android:fillColor="#E1BEE7"
+        android:pathData="M54,20c-8.8,0-16,7.2-16,16v12h4v-12c0-6.6,5.4-12,12-12s12,5.4,12,12v12h4v-12C70,27.2,62.8,20,54,20z"/>
+    
+    <path
+        android:fillColor="#BB86FC"
+        android:pathData="M32,48h44c3.3,0,6,2.7,6,6v24c0,3.3-2.7,6-6,6H32c-3.3,0-6-2.7-6-6V54C26,50.7,28.7,48,32,48z"/>
+        
+    <!-- Book pages lines visual overlay in center -->
+    <path
+        android:fillColor="#FAFAFA"
+        android:pathData="M39,59h30c1.1,0,2-0.9,2-2s-0.9-2-2-2H39c-1.1,0-2,0.9-2,2S37.9,59,39,59z M39,67h30c1.1,0,2-0.9,2-2s-0.9-2-2-2H39c-1.1,0-2,0.9-2,2S37.9,67,39,67z M39,75h18c1.1,0,2-0.9,2-2s-0.9-2-2-2H39c-1.1,0-2,0.9-2,2S37.9,75,39,75z"/>
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "Lockscreen Word Learner",
+  "description": "An application showing English-Russian-Uzbek word translations even on locked screens, with customizable time intervals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
